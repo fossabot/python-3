@@ -643,3 +643,6 @@ int create_heat_table (int ndom, char rootname[]);
 int create_ion_table (int ndom, char rootname[], int iz, int ion_switch);
 double *get_ion (int ndom, int element, int istate, int iswitch);
 double *get_one (int ndom, char variable_name[]);
+/* poltest.c */
+int poltest(PhotPtr p, PhotPtr pp);
+
