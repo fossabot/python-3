@@ -13,6 +13,7 @@ Documentation of input parameters is hosted on [ReadTheDocs](http://agnwinds.rea
 ## Travis Build Status
 
 [![Build Status](https://travis-ci.org/agnwinds/python.png?branch=dev)](https://travis-ci.org/agnwinds/python)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fpython.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fpython?ref=badge_shield)
 
 ## Installation
 
@@ -64,3 +65,7 @@ and run the code by typing, e.g.
 Please see the [wiki](https://github.com/agnwinds/python/wiki/Installing-and-Running-Python) and docs folder for how to use the code.
 
 Any comments, email one of the addresses above.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjamiecool%2Fpython.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjamiecool%2Fpython?ref=badge_large)
